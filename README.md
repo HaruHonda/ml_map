@@ -1,12 +1,13 @@
 # ml_map
 <img width="800" src="https://user-images.githubusercontent.com/60038634/138719935-d4cf8094-9cc3-4afd-ace5-aa6a8b134af3.png" alt="エビフライトライアングル" title="サンプル">
 
-### Implemented algorithms listed on ml-map (scikit-learn algorithm cheat-sheet)
+### Implemented algorithms listed on ml-map (scikit-learn algorithm cheat-sheet)  
+
 ### 1.Regression
-#### 1.1. SGD Regression
-#### 1.2. LASSO & ElasticNet Regression
-#### 1.3. RIDGE Regression & SVR (Kernel='linear')
-#### 1.4. SVR (Kernel='rbf') & Ensemble Regressors　　
+  #### 1.1. SGD Regression
+  #### 1.2. LASSO & ElasticNet Regression
+  #### 1.3. RIDGE Regression & SVR (Kernel='linear')
+  #### 1.4. SVR (Kernel='rbf') & Ensemble Regressors　　
 
 ### 2.Classification
 #### 2.1. Linear SVC
