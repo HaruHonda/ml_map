@@ -18,9 +18,16 @@ Implemented algorithms listed on ml-map (scikit-learn algorithm cheat-sheet)
 ### 2.6. SVC & ENSEMBLE Classifiers
 
 ## 3.Clustering
-### 3.1. 
-### 3.2.
-### 3.3.
-### 3.4.
-### 3.5.
-### 3.6.
+### 3.1. MeanShift
+### 3.2. VBGMM
+### 3.3. KMeans
+### 3.4. MiniBatch KMeans
+### 3.5. Spectral Clustering
+### 3.6. GMM
+
+## 4.Dimentionality Reduction
+### 4.1. Randomized PCA
+### 4.2. Isomap
+### 4.3. Spectral Embedding
+### 4.4. LLE
+### 4.5. Kernel approximation
