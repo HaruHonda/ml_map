@@ -30,3 +30,8 @@
 #### 4.3. Spectral Embedding
 #### 4.4. LLE
 #### 4.5. Kernel approximation
+
+### Other methods ###
+#### Linear & Logistic Regression
+#### Support Vector Machine
+#### Decision Tree & Random Forest
