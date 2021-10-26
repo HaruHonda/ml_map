@@ -17,7 +17,7 @@
   #### 2.4. [Naive Bayes](https://github.com/HaruHonda/ml_map/tree/main/algorithms/2.4.%20Naive%20Bayes)
   #### 2.5. [K-Neighbors Classifier](https://github.com/HaruHonda/ml_map/tree/main/algorithms/2.5.%20K-Neighbors%20Classifier)
   #### 2.6. [SVC(Support Vector Classifier: Kernel Support Vector Machine) & ENSEMBLE Classifiers](https://github.com/HaruHonda/ml_map/tree/main/algorithms/2.6.%20SVC%20(Support%20Vector%20Classifier)%20%26%20ENSEMBLE%20Classifiers)
-  #### 0.0. [Decision Tree & Random Forest　]
+  #### 0.0. [Decision Tree & Random Forest]
 ---
 ### 3.Clustering
   #### 3.1. [MeanShift](https://github.com/HaruHonda/ml_map/tree/main/algorithms/3.1.%20MeanShift)
