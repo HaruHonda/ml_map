@@ -5,27 +5,28 @@
 
 <dl> 
   <dt> 1.Regression </dt> 
-  <dd> 1.1. SGD Regression </dd>
+  <dd> 1.1. [SGD Regression](https://www.msn.com/ja-jp) </dd>
   <dd> 1.2. LASSO & ElasticNet Regression </dd>
-  <dd> 1.3. RIDGE Regression & SVR (Kernel='linear') </dd>
-  <dd> 1.4. SVR (Kernel='rbf') & Ensemble Regressors　　</dd>
+  <dd> 1.3. RIDGE Regression & SVR (Support Vector Regression: Kernel='linear') </dd>
+  <dd> 1.4. SVR (Support Vector Regression: Kernel='rbf') & Ensemble Regressors　　</dd>
 </dl> 
 
+### Supervised learning 
 ### 2.Classification
-#### 2.1. Linear SVC
+#### 2.1. Linear SVC (Support Vector Classifier: Support Vector Machine without Kernel)
 #### 2.2. SGD Classfier
-#### 2.3. Kernel Approximation
+#### 2.3. Kernel Approximation　(Non-linear identification required)
 #### 2.4. Naive Bayes
 #### 2.5. K-Neighbors Classifier
-#### 2.6. SVC & ENSEMBLE Classifiers　　
+#### 2.6. SVC (Support Vector Classifier: Kernel Support Vector Machine)　& ENSEMBLE Classifiers　
 
 ### 3.Clustering
 #### 3.1. MeanShift
-#### 3.2. VBGMM
+#### 3.2. VBGMM　(Variational Bayesian Gaussian Mixture Model)
 #### 3.3. KMeans
 #### 3.4. MiniBatch KMeans
 #### 3.5. Spectral Clustering
-#### 3.6. GMM　　
+#### 3.6. GMM　　(Gaussian Mixture Model)
 
 ### 4.Dimentionality Reduction
 #### 4.1. Randomized PCA
@@ -36,5 +37,5 @@
 
 ### Other methods ###
 #### Linear & Logistic Regression
-#### Support Vector Machine
-#### Decision Tree & Random Forest　　
+#### Decision Tree & Random Forest　
+#### Neural Network(Autoencoder, Constrained Boltzmann Machine, Deep Belief Network)
