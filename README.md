@@ -14,7 +14,7 @@
   #### 2.3. [SGD Classifier + Kernel Approximation　(Non-linear identification required)]()
   #### 2.4. [Naive Bayes]()
   #### 2.5. [K-Neighbors Classifier]()
-  #### 2.6. [SVC(Support Vector Classifier: Kernel Support Vector Machine)　& ENSEMBLE Classifiers]()
+  #### 2.6. [SVC(Support Vector Classifier: Kernel Support Vector Machine) & ENSEMBLE Classifiers]()
 
 ### 3.Clustering
   #### 3.1. [MeanShift]()
