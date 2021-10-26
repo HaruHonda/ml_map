@@ -15,6 +15,7 @@
   #### 2.4. [Naive Bayes](https://github.com/HaruHonda/ml_map/tree/main/algorithms/2.4.%20Naive%20Bayes)
   #### 2.5. [K-Neighbors Classifier](https://github.com/HaruHonda/ml_map/tree/main/algorithms/2.5.%20K-Neighbors%20Classifier)
   #### 2.6. [SVC(Support Vector Classifier: Kernel Support Vector Machine) & ENSEMBLE Classifiers](https://github.com/HaruHonda/ml_map/tree/main/algorithms/2.6.%20SVC%20(Support%20Vector%20Classifier)%20%26%20ENSEMBLE%20Classifiers)
+  #### 0.0. [Decision Tree & Random Forest　]
 
 ### 3.Clustering
   #### 3.1. [MeanShift](https://github.com/HaruHonda/ml_map/tree/main/algorithms/3.1.%20MeanShift)
@@ -23,6 +24,8 @@
   #### 3.4. [MiniBatch KMeans](https://github.com/HaruHonda/ml_map/tree/main/algorithms/3.4.%20MiniBatch%20KMeans)
   #### 3.5. [Spectral Clustering](https://github.com/HaruHonda/ml_map/tree/main/algorithms/3.5.%20Spectral%20Clustering)
   #### 3.6. [GMM(Gaussian Mixture Model)](https://github.com/HaruHonda/ml_map/tree/main/algorithms/3.6.%20GMM(Gaussian%20Mixture%20Model))
+  #### 0.0. [Random Forest　]
+  #### 0.0. [Hierarchical clustering]
 
 ### 4.Dimentionality Reduction
   #### 4.1. [Randomized PCA(Principal Component Analysis)](https://github.com/HaruHonda/ml_map/tree/main/algorithms/4.1.%20Randomized%20PCA)
@@ -30,8 +33,13 @@
   #### 4.3. [Spectral Embedding](https://github.com/HaruHonda/ml_map/tree/main/algorithms/4.3.%20Spectral%20Embedding)
   #### 4.4. [LLE(Locally Linear Embedding)](https://github.com/HaruHonda/ml_map/tree/main/algorithms/4.4.%20LLE(Locally%20Linear%20Embedding))
   #### 4.5. [PCA + Kernel approximation](https://github.com/HaruHonda/ml_map/tree/main/algorithms/4.5.%20PCA%20%2B%20Kernel%20approximation)
+  #### 0.0. [t-SNE(t-distributed stochastic neigbor embedding)]
 
 ### Other methods ###
 #### Linear & Logistic Regression
 #### Decision Tree & Random Forest　
 #### Neural Network(Autoencoder, Constrained Boltzmann Machine, Deep Belief Network)
+
+### Association Rule Learning ###
+#### Apriori 
+#### eclat 
