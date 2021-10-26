@@ -25,7 +25,7 @@
   #### 3.6. [GMM(Gaussian Mixture Model)](https://github.com/HaruHonda/ml_map/tree/main/algorithms/3.6.%20GMM(Gaussian%20Mixture%20Model))
 
 ### 4.Dimentionality Reduction
-  #### 4.1. [Randomized PCA](https://github.com/HaruHonda/ml_map/tree/main/algorithms/4.1.%20Randomized%20PCA)
+  #### 4.1. [Randomized PCA(Principal Component Analysis)](https://github.com/HaruHonda/ml_map/tree/main/algorithms/4.1.%20Randomized%20PCA)
   #### 4.2. [Isomap](https://github.com/HaruHonda/ml_map/tree/main/algorithms/4.2.%20Isomap)
   #### 4.3. [Spectral Embedding](https://github.com/HaruHonda/ml_map/tree/main/algorithms/4.3.%20Spectral%20Embedding)
   #### 4.4. [LLE(Locally Linear Embedding)](https://github.com/HaruHonda/ml_map/tree/main/algorithms/4.4.%20LLE(Locally%20Linear%20Embedding))
