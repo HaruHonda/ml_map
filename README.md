@@ -9,27 +9,27 @@
   #### 1.4. [SVR(Support Vector Regression: Kernel='rbf') & Ensemble Regressors](https://github.com/HaruHonda/ml_map/tree/main/algorithms/1.4.%20SVR%20(Support%20Vector%20Regression)%20%26%20Ensemble%20Regressors)
 
 ### 2.Classification
-  #### 2.1. [Linear SVC(Support Vector Classifier: Support Vector Machine without Kernel)]()
-  #### 2.2. [SGD Classifier]()
-  #### 2.3. [SGD Classifier + Kernel Approximation(Non-linear identification required)]()
-  #### 2.4. [Naive Bayes]()
-  #### 2.5. [K-Neighbors Classifier]()
-  #### 2.6. [SVC(Support Vector Classifier: Kernel Support Vector Machine) & ENSEMBLE Classifiers]()
+  #### 2.1. [Linear SVC(Support Vector Classifier: Support Vector Machine without Kernel)](https://github.com/HaruHonda/ml_map/tree/main/algorithms/2.1.%20Linear%20SVC%20(Support%20Vector%20Classifier))
+  #### 2.2. [SGD Classifier](https://github.com/HaruHonda/ml_map/tree/main/algorithms/2.2.%20SGD%20Classfier)
+  #### 2.3. [SGD Classifier + Kernel Approximation(Non-linear identification required)](https://github.com/HaruHonda/ml_map/tree/main/algorithms/2.3.%20SGD%20Classifier%20%2B%20Kernel%20Approximation)
+  #### 2.4. [Naive Bayes](https://github.com/HaruHonda/ml_map/tree/main/algorithms/2.4.%20Naive%20Bayes)
+  #### 2.5. [K-Neighbors Classifier](https://github.com/HaruHonda/ml_map/tree/main/algorithms/2.5.%20K-Neighbors%20Classifier)
+  #### 2.6. [SVC(Support Vector Classifier: Kernel Support Vector Machine) & ENSEMBLE Classifiers](https://github.com/HaruHonda/ml_map/tree/main/algorithms/2.6.%20SVC%20(Support%20Vector%20Classifier)%20%26%20ENSEMBLE%20Classifiers)
 
 ### 3.Clustering
-  #### 3.1. [MeanShift]()
-  #### 3.2. [VBGMM(Variational Bayesian Gaussian Mixture Model)]()
-  #### 3.3. [KMeans]()
-  #### 3.4. [MiniBatch KMeans]()
-  #### 3.5. [Spectral Clustering]()
-  #### 3.6. [GMM(Gaussian Mixture Model)]()
+  #### 3.1. [MeanShift](https://github.com/HaruHonda/ml_map/tree/main/algorithms/3.1.%20MeanShift)
+  #### 3.2. [VBGMM(Variational Bayesian Gaussian Mixture Model)](https://github.com/HaruHonda/ml_map/tree/main/algorithms/3.2.%20VBGMM(Variational%20Bayesian%20Gaussian%20Mixture%20Model))
+  #### 3.3. [KMeans](https://github.com/HaruHonda/ml_map/tree/main/algorithms/3.3.%20KMeans)
+  #### 3.4. [MiniBatch KMeans](https://github.com/HaruHonda/ml_map/tree/main/algorithms/3.4.%20MiniBatch%20KMeans)
+  #### 3.5. [Spectral Clustering](https://github.com/HaruHonda/ml_map/tree/main/algorithms/3.5.%20Spectral%20Clustering)
+  #### 3.6. [GMM(Gaussian Mixture Model)](https://github.com/HaruHonda/ml_map/tree/main/algorithms/3.6.%20GMM(Gaussian%20Mixture%20Model))
 
 ### 4.Dimentionality Reduction
-  #### 4.1. [Randomized PCA]()
-  #### 4.2. [Isomap]()
-  #### 4.3. [Spectral Embedding]()
-  #### 4.4. [LLE(Locally Linear Embedding)]()
-  #### 4.5. [PCA + Kernel approximation]()
+  #### 4.1. [Randomized PCA](https://github.com/HaruHonda/ml_map/tree/main/algorithms/4.1.%20Randomized%20PCA)
+  #### 4.2. [Isomap](https://github.com/HaruHonda/ml_map/tree/main/algorithms/4.2.%20Isomap)
+  #### 4.3. [Spectral Embedding](https://github.com/HaruHonda/ml_map/tree/main/algorithms/4.3.%20Spectral%20Embedding)
+  #### 4.4. [LLE(Locally Linear Embedding)](https://github.com/HaruHonda/ml_map/tree/main/algorithms/4.4.%20LLE(Locally%20Linear%20Embedding))
+  #### 4.5. [PCA + Kernel approximation](https://github.com/HaruHonda/ml_map/tree/main/algorithms/4.5.%20PCA%20%2B%20Kernel%20approximation)
 
 ### Other methods ###
 #### Linear & Logistic Regression
