@@ -28,7 +28,7 @@
   #### 4.1. [Randomized PCA]()
   #### 4.2. [Isomap]()
   #### 4.3. [Spectral Embedding]()
-  #### 4.4. [LLE(LocallyLinearEmbedding)]()
+  #### 4.4. [LLE(Locally Linear Embedding)]()
   #### 4.5. [PCA + Kernel approximation]()
 
 ### Other methods ###
