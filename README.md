@@ -4,10 +4,10 @@
 ### Implemented algorithms listed on ml-map (scikit-learn algorithm cheat-sheet)  
 
 1.Regression 
-  - 1.1. [SGD Regression](https://www.msn.com/ja-jp) 
-  - 1.2. LASSO & ElasticNet Regression 
-  - 1.3. RIDGE Regression & SVR (Support Vector Regression: Kernel='linear') 
-  - 1.4. SVR (Support Vector Regression: Kernel='rbf') & Ensemble Regressors　　
+  1.1. [SGD Regression](https://www.msn.com/ja-jp) 
+  1.2. LASSO & ElasticNet Regression 
+  1.3. RIDGE Regression & SVR (Support Vector Regression: Kernel='linear') 
+  1.4. SVR (Support Vector Regression: Kernel='rbf') & Ensemble Regressors　　
 
 <dl> 
   <dt> 1.Regression </dt> 
