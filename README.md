@@ -37,8 +37,11 @@
 
 ### Other methods ###
 #### Linear & Logistic Regression
-#### Decision Tree & Random Forest　
-#### Neural Network(Autoencoder, [Constrained Boltzmann Machine](), [Deep Belief Network](), etc)
+
+### Neural Network
+#### Autoencoder
+#### [Constrained Boltzmann Machine]()
+#### [Deep Belief Network]()
 
 ### Association Rule Learning ###
 #### Apriori 
