@@ -26,7 +26,7 @@
   #### 3.4. [MiniBatch KMeans](https://github.com/HaruHonda/ml_map/tree/main/algorithms/3.4.%20MiniBatch%20KMeans)
   #### 3.5. [Spectral Clustering](https://github.com/HaruHonda/ml_map/tree/main/algorithms/3.5.%20Spectral%20Clustering)
   #### 3.6. [GMM(Gaussian Mixture Model)](https://github.com/HaruHonda/ml_map/tree/main/algorithms/3.6.%20GMM(Gaussian%20Mixture%20Model))
-  #### 0.0. [Random Forest　]
+  #### 0.0. [Random Forest]
   #### 0.0. [Hierarchical clustering]
 ---
 ### 4.Dimentionality Reduction
