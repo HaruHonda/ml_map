@@ -36,14 +36,14 @@
   #### 4.5. [PCA + Kernel approximation](https://github.com/HaruHonda/ml_map/tree/main/algorithms/4.5.%20PCA%20%2B%20Kernel%20approximation)
   #### 0.0. [t-SNE(t-distributed stochastic neigbor embedding)]
 ---
-## - Other methods ##
-#### 1.Linear & Logistic Regression
-
 ### - Neural Network
 #### 1.Autoencoder
 #### 2.[Constrained Boltzmann Machine]()
 #### 3.[Deep Belief Network]()
-
+---
 ### - Association Rule Learning ###
 #### 1.Apriori 
 #### 2.eclat 
+---
+### - Other methods
+#### 1.Linear & Logistic Regression
