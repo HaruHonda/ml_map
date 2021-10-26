@@ -9,12 +9,12 @@
   #### 1.4. [SVR (Support Vector Regression: Kernel='rbf') & Ensemble Regressors](https://github.com/HaruHonda/ml_map/tree/main/algorithms/1.4.%20SVR%20(Support%20Vector%20Regression)%20%26%20Ensemble%20Regressors)
 
 ### 2.Classification
-  #### 2.1. [Linear SVC (Support Vector Classifier: Support Vector Machine without Kernel)]()
+  #### 2.1. [Linear SVC(Support Vector Classifier: Support Vector Machine without Kernel)]()
   #### 2.2. [SGD Classifier]()
   #### 2.3. [SGD Classifier + Kernel Approximation　(Non-linear identification required)]()
   #### 2.4. [Naive Bayes]()
   #### 2.5. [K-Neighbors Classifier]()
-  #### 2.6. [SVC (Support Vector Classifier: Kernel Support Vector Machine)　& ENSEMBLE Classifiers]()
+  #### 2.6. [SVC(Support Vector Classifier: Kernel Support Vector Machine)　& ENSEMBLE Classifiers]()
 
 ### 3.Clustering
   #### 3.1. [MeanShift]()
