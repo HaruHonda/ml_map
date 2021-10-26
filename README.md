@@ -3,10 +3,10 @@
 
 ### Implemented algorithms listed on ml-map (scikit-learn algorithm cheat-sheet)  
 ### 1.Regression 
-  #### 1.1. [SGD Regression](https://www.msn.com/ja-jp) 
-  #### 1.2. LASSO & ElasticNet Regression 
-  #### 1.3. RIDGE Regression & SVR (Support Vector Regression: Kernel='linear') 
-  #### 1.4. SVR (Support Vector Regression: Kernel='rbf') & Ensemble Regressors　　
+  #### 1.1. [SGD Regression](https://github.com/HaruHonda/ml_map/blob/main/algorithms/1.1.%20SGD%20Regression) 
+  #### 1.2. [LASSO & ElasticNet Regression](https://github.com/HaruHonda/ml_map/blob/main/algorithms/1.2.%20LASSO%20%26%20ElasticNet%20Regression)
+  #### 1.3. [RIDGE Regression & SVR (Support Vector Regression: Kernel='linear')](https://github.com/HaruHonda/ml_map/tree/main/algorithms/1.2.%20LASSO%20%26%20ElasticNet%20Regression) 
+  #### 1.4. [SVR (Support Vector Regression: Kernel='rbf') & Ensemble Regressors](https://github.com/HaruHonda/ml_map/tree/main/algorithms/1.4.%20SVR%20(Support%20Vector%20Regression)%20%26%20Ensemble%20Regressors)
 
 ### Supervised learning 
 ### 2.Classification
