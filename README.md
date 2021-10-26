@@ -18,17 +18,17 @@
 
 ### 3.Clustering
   #### 3.1. [MeanShift]()
-  #### 3.2. [VBGMM　(Variational Bayesian Gaussian Mixture Model)]()
+  #### 3.2. [VBGMM(Variational Bayesian Gaussian Mixture Model)]()
   #### 3.3. [KMeans]()
   #### 3.4. [MiniBatch KMeans]()
   #### 3.5. [Spectral Clustering]()
-  #### 3.6. [GMM　　(Gaussian Mixture Model)]()
+  #### 3.6. [GMM(Gaussian Mixture Model)]()
 
 ### 4.Dimentionality Reduction
   #### 4.1. [Randomized PCA]()
   #### 4.2. [Isomap]()
   #### 4.3. [Spectral Embedding]()
-  #### 4.4. [LLE]()
+  #### 4.4. [LLE(LocallyLinearEmbedding)]()
   #### 4.5. [PCA + Kernel approximation]()
 
 ### Other methods ###
