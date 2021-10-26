@@ -2,6 +2,7 @@
 <img width="800" src="https://user-images.githubusercontent.com/60038634/138719935-d4cf8094-9cc3-4afd-ace5-aa6a8b134af3.png" alt="エビフライトライアングル" title="サンプル">
 
 ## Implemented algorithms listed on ml-map (scikit-learn algorithm cheat-sheet) 
+> "Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques for Building Intelligent Systems" by Aurélien Géron
 ---
 ### 1.Regression 
   #### 1.1. [SGD Regression](https://github.com/HaruHonda/ml_map/blob/main/algorithms/1.1.%20SGD%20Regression) 
