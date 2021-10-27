@@ -9,7 +9,7 @@
   #### 1.2. [LASSO & ElasticNet Regression](https://github.com/HaruHonda/ml_map/blob/main/algorithms/1.2.%20LASSO%20%26%20ElasticNet%20Regression)
   #### 1.3. [RIDGE Regression & SVR(Support Vector Regression: Kernel='linear')](https://github.com/HaruHonda/ml_map/tree/main/algorithms/1.2.%20LASSO%20%26%20ElasticNet%20Regression) 
   #### 1.4. [SVR(Support Vector Regression: Kernel='rbf') & Ensemble Regressors](https://github.com/HaruHonda/ml_map/tree/main/algorithms/1.4.%20SVR%20(Support%20Vector%20Regression)%20%26%20Ensemble%20Regressors)
-  #### 0.0. [OLS (Ordinary Least Squares regression)]
+  #### 0.0. OLS (Ordinary Least Squares regression) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/HaruHonda/044676c5d7273fd0f448009afa4a56eb/ols.ipynb)
 ---
 ### 2.Classification
   #### 2.1. [Linear SVC(Support Vector Classifier: Support Vector Machine without Kernel)](https://github.com/HaruHonda/ml_map/tree/main/algorithms/2.1.%20Linear%20SVC%20(Support%20Vector%20Classifier))
