@@ -40,8 +40,8 @@
 ---
 ### - Neural Network
 #### 1.Autoencoder
-#### 2.[Constrained Boltzmann Machine]()
-#### 3.[Deep Belief Network]()
+#### 2.[Constrained Boltzmann Machine]
+#### 3.[Deep Belief Network]
 ---
 ### - Association Rule Learning ###
 #### 1.Apriori 
